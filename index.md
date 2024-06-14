@@ -20,25 +20,28 @@ Email ID: [utkarsht@umd.edu](mailto:utkarsht@umd.edu), [utkarsh4430@gmail.com](m
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>December 2023:</b></td><td>Submitted 4 papers to NAACL 2024!</td></tr>
-  <tr><td><b>December 2023:</b></td><td>Attended EMNLP in-person in Singapore!</td></tr>
-  <tr><td><b>October 2023:</b></td><td>2 papers accepted to EMNLP 2023!</td></tr>
-  <tr><td><b>September 2023:</b></td><td>1 paper submitted to ICLR 2024!</td></tr>
-  <tr><td><b>August 2023:</b></td><td>Started my MS in CS at the University of Maryland, College Park!</td></tr>
-  <tr><td><b>July 2023:</b></td><td>1 paper submitted to AAAI 2023!</td></tr>
-  <tr><td><b>July 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>3 papers submitted to EMNLP 2023!</td></tr>
-  <tr><td><b>May 2023:</b></td><td>Our paper was accepted to Interspeech 2023!</td></tr>
-  <tr><td><b>April 2023:</b></td><td>Our paper was accepted to ACL 2023!</td></tr>
-  <tr><td><b>April 2023:</b></td><td>Our paper was accepted to SIGIR 2023!</td></tr>
-  <tr><td><b>March 2023:</b></td><td>2 papers submitted to Interspeech 2023!</td></tr>
-  <tr><td><b>March 2023:</b></td><td>Paper on implicit hate speech detection submitted to IJCAI 2023!</td></tr>
-  <tr><td><b>February 2023:</b></td><td>Paper submitted to SIGIR 2023!</td></tr>
-  <tr><td><b>January 2023:</b></td><td>Paper submitted to ACL 2023!</td></tr>
-  <tr><td><b>December 2022:</b></td><td>Paper on implicit hate speech detection in online conversations accepted in De-factify 2 @ AAAI 2023!</td></tr>
-  <tr><td><b>October 2022:</b></td><td>2 papers submitted to IEEE ICASSP 2023! Pre-print and code now available!</td></tr>
-  <tr><td><b>September 2022:</b></td><td>2 patents filed with Atlassian on incident management in multi-party communication channels!</td></tr>
-  <tr><td><b>September 2022:</b></td><td>Promoted to Software Engineer 2 at Atlassian!</td></tr>
-  <tr><td><b>September 2022:</b></td><td>Started collaborating with the Gamma Lab at the University of Maryland, College Park!</td></tr>
-  <tr><td><b>March 2022:</b></td><td>Joined MIDAS Lab, IIIT Delhi. More details on the research can be found in the Research section!</td></tr>
-  <tr><td><b>July 2021:</b></td><td>Started as a Software Engineer at Atlassian!</td></tr>
+  <!-- <tr><td><b>Mar 2024:</b></td><td>1 paper submitted to InterSpeech 2024!</td></tr> -->
+  <tr><td><b>Mar 2024:</b></td><td>2 papers accepted to NAACL 2024!</td></tr>
+  <!-- <tr><td><b>Feb 2024:</b></td><td>Submitted 2 papers to ACL 2024!</td></tr> -->
+  <tr><td><b>Jan 2024:</b></td><td>Paper accepted to ICLR 2024</td></tr>
+  <tr><td><b>Dec 2023:</b></td><td>Attended EMNLP in-person in Singapore!</td></tr>
+  <tr><td><b>Oct 2023:</b></td><td>2 papers accepted to EMNLP 2023!</td></tr>
+  <!-- <tr><td><b>Sep 2023:</b></td><td>1 paper submitted to ICLR 2024!</td></tr> -->
+  <tr><td><b>Aug 2023:</b></td><td>Started my MS in CS at the University of Maryland, College Park!</td></tr>
+  <!-- <tr><td><b>Jul 2023:</b></td><td>1 paper submitted to AAAI 2023!</td></tr> -->
+  <tr><td><b>Jul 2023:</b></td><td>Paper accepted to ICCV 2023!</td></tr>
+  <!-- <tr><td><b>May 2023:</b></td><td>3 papers submitted to EMNLP 2023!</td></tr> -->
+  <tr><td><b>May 2023:</b></td><td>Paper accepted to Interspeech 2023!</td></tr>
+  <tr><td><b>Apr 2023:</b></td><td>Paper accepted to ACL 2023!</td></tr>
+  <tr><td><b>Apr 2023:</b></td><td>Paper accepted to SIGIR 2023!</td></tr>
+  <!-- <tr><td><b>Mar 2023:</b></td><td>2 papers submitted to Interspeech 2023!</td></tr> -->
+  <!-- <tr><td><b>Mar 2023:</b></td><td>Paper on implicit hate speech detection submitted to IJCAI 2023!</td></tr> -->
+  <!-- <tr><td><b>Feb 2023:</b></td><td>Paper submitted to SIGIR 2023!</td></tr> -->
+  <!-- <tr><td><b>Jan 2023:</b></td><td>Paper submitted to ACL 2023!</td></tr> -->
+  <tr><td><b>Dec 2022:</b></td><td>Paper on implicit hate speech detection in online conversations accepted in De-factify 2 @ AAAI 2023!</td></tr>
+  <!-- <tr><td><b>Oct 2022:</b></td><td>2 papers submitted to IEEE ICASSP 2023! Pre-print and code now available!</td></tr> -->
+  <tr><td><b>Sep 2022:</b></td><td>2 patents filed with Atlassian on incident management in multi-party communication channels!</td></tr>
+  <tr><td><b>Sep 2022:</b></td><td>Promoted to Software Engineer 2 at Atlassian!</td></tr>
+  <tr><td><b>Sep 2022:</b></td><td>Started collaborating with the Gamma Lab at the University of Maryland, College Park!</td></tr>
+  <tr><td><b>Mar 2022:</b></td><td>Joined MIDAS Lab, IIIT Delhi. More details on the research can be found in the Research section!</td></tr>
+  <tr><td><b>Jul 2021:</b></td><td>Started as a Software Engineer at Atlassian!</td></tr>
