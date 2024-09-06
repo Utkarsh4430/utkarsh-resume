@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/utkarsh.jpg">
 
-My name is Utkarsh Tyagi. I am currently an M.S. in C.S. student at the University of Maryland, College Park. At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on various problems in speech, langugage and audio processing. I am currently working on video representation learning for long-form video understanding. Previously, I worked as a Software Engineer II at [Atlassian, India](https://www.atlassian.com/). I have also worked as a part time researcher at [MIDAS Labs @ IIIT Delhi](http://midas.iiitd.edu.in/) under the supervision of [Prof. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn). Here, I worked on problems like disfluency detection in speech and complex named entity recognition.
+My name is Utkarsh Tyagi. I am currently an M.S. in C.S. student at the University of Maryland, College Park. At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) and [Prof. Ramani Duraiswami](https://scholar.google.com/citations?user=RCmfc0cAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on various problems in speech, langugage and audio processing. I am currently working on video representation learning for long-form video understanding. Previously, I worked as a Software Engineer II at [Atlassian, India](https://www.atlassian.com/). I have also worked as a part time researcher at [MIDAS Labs @ IIIT Delhi](http://midas.iiitd.edu.in/) under the supervision of [Prof. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn). Here, I worked on problems like disfluency detection in speech and complex named entity recognition.
 
 Previously I have interned in the Voice Intelligence team at [Samsung Research Institute, Bangalore](https://research.samsung.com/sri-b). Here I worked on improving Bixby’s wakeup word detection and built a  vocabulary-independent, lightweight keyword spotter. I have also worked as a research intern at the [Samsung Innovation Lab, DTU](https://sites.google.com/view/sdarldtu/home?authuser=1&pli=1). Here, I developed an AI-powered mobile camera-based application to calculate sustained attention span using a candle flame test.
 
@@ -20,6 +20,7 @@ Email ID: [utkarsht@umd.edu](mailto:utkarsht@umd.edu), [utkarsh4430@gmail.com](m
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Aug 2024:</b></td><td>Awarded $7,000 Fellowship at UMD: Project on EEG-based Brain-Computer Interaction using LLMs!</td></tr>
   <tr><td><b>Mar 2024:</b></td><td>1 paper accepted to InterSpeech 2024!</td></tr>
   <tr><td><b>Mar 2024:</b></td><td>2 papers accepted to ACL 2024!</td></tr>
   <tr><td><b>Mar 2024:</b></td><td>2 papers accepted to NAACL 2024!</td></tr>
