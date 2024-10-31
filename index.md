@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/utkarsh.jpg">
+<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/IMG_4207.jpg">
 
 My name is Utkarsh Tyagi. I am currently an M.S. in C.S. student at the University of Maryland, College Park. At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) and [Prof. Ramani Duraiswami](https://scholar.google.com/citations?user=RCmfc0cAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on various problems in speech, langugage and audio processing. I am currently working on video representation learning for long-form video understanding. Previously, I worked as a Software Engineer II at [Atlassian, India](https://www.atlassian.com/). I have also worked as a part time researcher at [MIDAS Labs @ IIIT Delhi](http://midas.iiitd.edu.in/) under the supervision of [Prof. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn). Here, I worked on problems like disfluency detection in speech and complex named entity recognition.
 
